@@ -19,7 +19,7 @@ python osume.py
 
 ### Arguments
 - `-d`, `--destination` - directory the songs are outputed to, defaults to `~/Music`
-- `-a`, `--all` - extracts all songs of asking which ones to extract
+- `-a`, `--all` - extracts all songs instead of asking which ones to extract
 
 ## Known Issues
 - All files are extracted not just songs

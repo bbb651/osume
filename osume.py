@@ -14,7 +14,7 @@ def main():
 
     parser = argparse.ArgumentParser()
     parser.add_argument("-d", "--destination", type=Path, help="directory the songs are outputed to, defualts to ~/Music")
-    parser.add_argument("-a", "--all", action="store_true", help="extracts all songs of asking which ones to extract")
+    parser.add_argument("-a", "--all", action="store_true", help="extracts all songs instead of asking which ones to extract")
     global args
     args = parser.parse_args()
 
