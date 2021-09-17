@@ -22,6 +22,6 @@ python osume.py
 - `-a`, `--all` - extracts all songs of asking which ones to extract
 
 ## Known Issues
-- All files are extracted not just songs, and 
+- All files are extracted not just songs
 - Songs with directories in their name will fail to extract
 - Not all songs have proper metadata
