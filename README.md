@@ -2,7 +2,7 @@
 
 Extract music from osu!lazer beatmaps
 
-AUR package coming soon
+### AUR package: [osume-git](https://aur.archlinux.org/packages/osume-git/)
 
 ## Usage
 
